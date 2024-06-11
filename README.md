@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil : 💙💜
 
-<!--
-**danielfalconi3a/danielfalconi3a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Daniel 
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voçe entra em contato comigo 📫
+
+danielfalconi3a@gmail.com
+
+@danielfalconi3a
+
+![](https://64.media.tumblr.com/57da974cb8b91d5bbf41cfa2a8f0c073/38ae095f2a74b6ae-e0/s640x960/86f14b34a1b566c1cacdb9ca3e3cb66ac5bd2a39.gif)
